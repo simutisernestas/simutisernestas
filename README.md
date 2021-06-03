@@ -3,7 +3,7 @@
   
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simutisernestas&layout=compact&theme=light&hide=jupyter%20notebook,html,makefile,cmake" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simutisernestas&layout=compact&theme=light&hide=jupyter%20notebook,html,makefile,cmake,php,vue&&langs_count=4" />
   </p>
 
 <!--
